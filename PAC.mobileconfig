@@ -13,7 +13,7 @@
 
 			<key>PayloadIdentifier</key>
 			<!-- aeea4ad8-99b3-11ea-bb37-0242ac130002 -->
-			<string>com.apple.proxy.http.global.GENERATED_UUID_01</string>
+			<string>com.apple.proxy.http.global.aeea4ad8-99b3-11ea-bb37-0242ac130002</string>
 
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
@@ -33,7 +33,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- https://raw.githubusercontent.com/Mkrtichmikem/easylist-pac-privoxy/master/proxy.pac -->
-			<string>URL_TO_YOUR_PAC_FILE</string>
+			<string>https://raw.githubusercontent.com/Mkrtichmikem/easylist-pac-privoxy/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
@@ -42,10 +42,10 @@
 
 	<key>PayloadDisplayName</key>
 	<!-- Ponch -->
-	<string>PROFILE_NAME</string>
+	<string>Ponch</string>
 	
 	<key>PayloadIdentifier</key>
-	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND aeea4d3a-99b3-11ea-bb37-0242ac130002 -->
+	<!-- Mkrtich AND aeea4d3a-99b3-11ea-bb37-0242ac130002 -->
 	<string>your.adblock.proxy.name.aeea4d3a-99b3-11ea-bb37-0242ac130002</string>
 	
 	<key>PayloadRemovalDisallowed</key>
@@ -56,7 +56,7 @@
 
 	<key>PayloadUUID</key>
 	<!-- aeea4ec0-99b3-11ea-bb37-0242ac130002 -->
-	<string>GENERATED_UUID_03</string>
+	<string>aeea4ec0-99b3-11ea-bb37-0242ac130002>
 
 	<key>PayloadVersion</key>
 	<integer>1</integer>
