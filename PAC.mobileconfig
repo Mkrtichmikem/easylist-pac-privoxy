@@ -32,7 +32,7 @@
 			<false/>
 
 			<key>ProxyPACURL</key>
-			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
+			<!-- https://raw.githubusercontent.com/Mkrtichmikem/easylist-pac-privoxy/master/proxy.pac -->
 			<string>URL_TO_YOUR_PAC_FILE</string>
 
 			<key>ProxyType</key>
@@ -41,11 +41,11 @@
 	</array>
 
 	<key>PayloadDisplayName</key>
-	<!-- ADD A NAME FOR YOUR PROFILE -->
+	<!-- Ponch -->
 	<string>PROFILE_NAME</string>
 	
 	<key>PayloadIdentifier</key>
-	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
+	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND aeea4d3a-99b3-11ea-bb37-0242ac130002 -->
 	<string>your.adblock.proxy.name.aeea4d3a-99b3-11ea-bb37-0242ac130002</string>
 	
 	<key>PayloadRemovalDisallowed</key>
